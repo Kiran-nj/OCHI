@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Kiran-nj.github.io/my-app",
+  "homepage": "https://Kiran-nj.github.io/OCHI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
